@@ -1,6 +1,6 @@
 ﻿using Microsoft.Xna.Framework;
 
-namespace Monolights
+namespace Monolights.Lights
 {
     /// <summary>
     /// The light type. 

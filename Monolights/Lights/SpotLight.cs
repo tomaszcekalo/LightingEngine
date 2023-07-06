@@ -1,7 +1,7 @@
 ﻿using System;
 using Microsoft.Xna.Framework;
 
-namespace Monolights
+namespace Monolights.Lights
 {
     public class SpotLight : Light
     {

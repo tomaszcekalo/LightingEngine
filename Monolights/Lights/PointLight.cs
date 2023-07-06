@@ -1,4 +1,4 @@
-﻿namespace Monolights
+﻿namespace Monolights.Lights
 {
     public class PointLight : Light
     {
@@ -6,9 +6,9 @@
         /// A pointlight that shines even in all directions.
         /// </summary>
         public PointLight()
-            : base (LightType.Point)
+            : base(LightType.Point)
         {
-            
+
         }
     }
 }
